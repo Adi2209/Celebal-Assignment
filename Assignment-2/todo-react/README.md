@@ -1,3 +1,7 @@
+<h1>
+  Live Hosted Link: 
+  <a href="https://celebal-todolist-aditya-nigam.netlify.app/" target="_blank">Assignment-2</a>
+</h1>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
